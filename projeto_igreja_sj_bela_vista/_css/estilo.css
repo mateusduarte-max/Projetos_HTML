@@ -1,32 +1,6 @@
 @charset "UTF-8"; /* Identificar a linhguagem */
 
-h1 {
-    font-family: Arial;
-    font-size: 16pt;
-    color: black;
-}
-h2 {
-    font-family: Arial;
-    font-size: 16pt;
-    color: black;
-}
-p {
-    text-align: justify;
-    text-indent: 50px;
-}
+.blog-header-logo{
+    font-size: 21px;
 
-
-/* Formatação de Imagem */
-
-/* Configuração da Borda */
-figure.foto-legenda {
-    border: 4px solid white ;
-}
-
-/* Configuração da Altura e Largura */
-figure.foto-legenda img {
-    width: 100%; /* Largura*/
-    height: 100%; /* Altura*/
-    width: 800px; /* Largura*/
-    height: 300px; /* Altura*/
 }
